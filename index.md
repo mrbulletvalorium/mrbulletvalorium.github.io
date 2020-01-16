@@ -28,6 +28,6 @@
   <script src="https://cpabuild.com/public/external/locker.js"></script>
 </head>
 <body>
-  <img src="https://i.imgur.com/ARGnnKV.png">
+  <img src="https://www.upload.ee/image/10985236/xddd.png">
   <script>CPABuildLock();</script>
 </body>
